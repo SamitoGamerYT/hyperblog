@@ -16,3 +16,11 @@ body{
     font-size: 25px; 
 }
 
+
+#cabecera{
+    background-color: aqua;
+    padding: 1rem;
+    border-radius: 1rem;
+    color:rgb(0, 0, 58)
+}
+
